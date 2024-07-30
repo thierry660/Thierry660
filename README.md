@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+boas vindas ao meu perfil 
+meu nome é Thierry kaue
+estou estudando na Alura
 <!--
 **thierry660/Thierry660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
